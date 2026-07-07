@@ -1,0 +1,21 @@
+date,merchant,amount,note
+2026-05-01,Salary,-45000,Monthly salary
+2026-05-02,Swiggy,450,Dinner
+2026-05-03,Netflix,499,Monthly sub
+2026-05-05,BigBasket,1200,Groceries
+2026-05-07,Uber,180,Cab to college
+2026-05-10,Amazon,2200,Headphones
+2026-05-15,Rent,12000,Monthly rent
+2026-05-20,Swiggy,380,Lunch
+2026-06-01,Salary,-45000,Monthly salary
+2026-06-02,Netflix,499,Monthly sub
+2026-06-04,BigBasket,1350,Groceries
+2026-06-06,Uber,220,Cab
+2026-06-10,Swiggy,410,Dinner
+2026-06-15,Rent,12000,Monthly rent
+2026-06-18,Amazon,899,Book
+2026-07-01,Salary,-45000,Monthly salary
+2026-07-02,Netflix,499,Monthly sub
+2026-07-03,BigBasket,1280,Groceries
+2026-07-05,Swiggy,470,Dinner
+2026-07-06,Uber,200,Cab
